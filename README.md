@@ -1,4 +1,5 @@
 # Job Assignment Machine(JAM)
+
 cost_room為測資檔
 
 Input : 給予8位工人對8件工作的工作成本
